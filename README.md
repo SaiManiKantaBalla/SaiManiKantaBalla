@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @SaiManiKantaBalla
-- 👀 I’m interested in ...Programming
-- 🌱 I’m currently learning ...JAVA
-- 💞️ I’m looking to collaborate on ...Any Java Projects,Internships...
 - 📫 How to reach me ...Twitter:: SaiManiKantaB8
 
 <!---
